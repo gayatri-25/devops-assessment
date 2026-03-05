@@ -5,5 +5,4 @@ __pycache__/
 .github/
 .aws/
 tests/
-requirements.txt
 Dockerfile
